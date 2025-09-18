@@ -63,7 +63,7 @@ public class baseclass {
 		
 		 
 	  }
-  //   @Parameters("Browser")
+    @Parameters("Browser")
 	  @BeforeClass(groups= {"Smoke","Regression"})
 	  public void beforeClass() throws IOException, InterruptedException {
 		String BROWSER=pf.toGetDataFromPropertiesFile("browser");
