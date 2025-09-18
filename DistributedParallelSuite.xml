@@ -6,7 +6,7 @@
 </listeners>
   <test thread-count="2" parallel="tests" name="Test1">
     <classes>
-      <class name="com.ninza.crm.campaigntest.CreateCampaign"/>
+      <class name="com.ninza.crm.campaigntest.CreateCampaignTest"/>
     </classes>
   </test> <!-- Test -->
   <listeners>
