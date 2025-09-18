@@ -76,7 +76,7 @@
  			 </build>
   	</profile>
   	<profile>
-  		<id>smoke</id>
+  		<id>Smoke</id>
   				<build>
  					 <plugins>
      						 <plugin>
